@@ -34,7 +34,8 @@ I'm a passionate individual with diverse skills and a love for coding. Currently
 
 ## 📊 GitHub Activity
 
-![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=SukainaNadeemAhmed)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukainaNadeemAhmed&show_icons=true&count_private=true&hide=contribs)
+
 
 
 ## 📫 Let's Connect
