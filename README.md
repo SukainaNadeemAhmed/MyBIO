@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm [Sukaina Nadeem]! 👋
+# Hello, I'm [Sukaina Nadeem Ahmed]! 👋
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sukaina-nadeem-ahmed-5341a0211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -11,7 +11,7 @@
 I'm a passionate individual with diverse skills and a love for coding. Currently working online, I specialize in:
 
 - **Office Automation**
-- **Building Next Generation Websites (HTML5 / CSS3)**
+- **Building Next Generation Websites (HTML5 / CSS3)**(https://img.shields.io/badge/HTML5-Advanced-orange)
 - **Programming with JavaScript**
 - **Bootstrap & jQuery**
 - **AngularJS**
