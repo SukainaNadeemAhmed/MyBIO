@@ -25,20 +25,14 @@ I'm a passionate individual with diverse skills and a love for coding. Currently
 - **Python**
 - **Jupyter Notebook**
 
-## 🎓 Certificates
-
-Here are some certifications I've earned:
-
-- [Certificate 1](link-to-certificate): Description.
-- [Certificate 2](link-to-certificate): Description.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?SukainaNadeemAhmed=SukainaNadeemahmed&show_icons=true&count_private=true&hide=contribs)
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/) or drop me an [email](mailto:your.email@example.com). Let's collaborate on exciting projects together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/SukainaNadeemAhmed/) or drop me an [email](mailto:webqueen322@gmail.com). Let's collaborate on exciting projects together!
 
 <!-- Collapsible Section -->
 <details>
