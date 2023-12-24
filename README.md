@@ -32,6 +32,11 @@ I'm a passionate individual with diverse skills and a love for coding. Currently
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukainaNadeemAhmed&show_icons=true&count_private=true&hide=contribs)
 
+## 📊 GitHub Activity
+
+![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=SukainaNadeemAhmed)
+
+
 ## 📫 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/SukainaNadeemAhmed/) or drop me an [email](mailto:webqueen322@gmail.com). Let's collaborate on exciting projects together!
