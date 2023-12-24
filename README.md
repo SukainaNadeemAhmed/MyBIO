@@ -32,9 +32,9 @@ I'm a passionate individual with diverse skills and a love for coding. Currently
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukainaNadeemAhmed&show_icons=true&count_private=true&hide=contribs)
 
-## 📊 GitHub Activity
+## 🏆 GitHub Trophies
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukainaNadeemAhmed&show_icons=true&count_private=true&hide=contribs)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SukainaNadeemAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
