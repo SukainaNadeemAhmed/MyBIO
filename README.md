@@ -11,7 +11,7 @@
 I'm a passionate individual with diverse skills and a love for coding. Currently working online, I specialize in:
 
 - **Office Automation**
-- **Building Next Generation Websites (HTML5 / CSS3)**(https://img.shields.io/badge/HTML5-Advanced-orange)
+- **Building Next Generation Websites (HTML5 / CSS3 (https://img.shields.io/badge/HTML5-Advanced-orange))**
 - **Programming with JavaScript**
 - **Bootstrap & jQuery**
 - **AngularJS**
