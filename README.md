@@ -10,20 +10,22 @@
 
 I'm a passionate individual with diverse skills and a love for coding. Currently working online, I specialize in:
 
-- **Office Automation**
-- **Building Next Generation Websites (HTML5 / CSS3 (https://img.shields.io/badge/HTML5-Advanced-orange))**
-- **Programming with JavaScript**
-- **Bootstrap & jQuery**
-- **AngularJS**
-- **MATLAB**
-- **IBM SPSS Statistics**
-- **DS9**
-- **Logo Designing**
-- **Picture Editing/Designing**
-- **Canva**
-- **Remote Sensing**
-- **Python**
-- **Jupyter Notebook**
+
+
+- ![Office Automation](https://img.shields.io/badge/Office%20Automation-Expert-brightgreen)
+- ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-Advanced-yellow)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
+- ![Bootstrap & jQuery](https://img.shields.io/badge/Bootstrap%20%26%20jQuery-Intermediate-blue)
+- ![AngularJS](https://img.shields.io/badge/AngularJS-Intermediate-blue)
+- ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-blue)
+- ![IBM SPSS Statistics](https://img.shields.io/badge/IBM%20SPSS%20Statistics-Intermediate-blue)
+- ![DS9](https://img.shields.io/badge/DS9-Intermediate-blue)
+- ![Logo Designing](https://img.shields.io/badge/Logo%20Designing-Expert-brightgreen)
+- ![Picture Editing/Designing](https://img.shields.io/badge/Picture%20Editing%2FDesigning-Expert-brightgreen)
+- ![Canva](https://img.shields.io/badge/Canva-Expert-brightgreen)
+- ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-Intermediate-blue)
+- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-blue)
 
 
 ## 📈 GitHub Stats
